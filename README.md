@@ -27,4 +27,4 @@ Os arquivos são organizados por linguagem, e dentro de cada pasta pelo número 
 - Linguagem principal: **Java**
 ---
 
-<p align="center">Feito com ☕ e muita tentativa e erro</p>
+<p align="center">Feito com café e muita tentativa e erro</p>
